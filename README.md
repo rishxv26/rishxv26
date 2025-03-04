@@ -1,6 +1,6 @@
 # Introduction
 
-Hello, I'm Rishav. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+Hello, I'm Rishav. Aspiring Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
